@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[99981,["/nitpick-demo/_next/static/chunks/0m0x7r6gngb8v.js","/nitpick-demo/_next/static/chunks/031dbyyp7431s.js"],"NitpickPrototype"]
+3:I[22702,["/nitpick-demo/_next/static/chunks/0m0x7r6gngb8v.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/nitpick-demo/_next/static/chunks/031dbyyp7431s.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"da2NBnO0CsR94eY9VfcV2"}
+5:null
